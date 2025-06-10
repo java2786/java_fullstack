@@ -1,0 +1,8 @@
+1. Variables and Data Types
+    - Declare variables to store your name, age, and favorite hobby. Print them in a sentence (e.g., "My name is John, I am 20 years old, and I like painting.").
+
+    - Create a variable to store a number and check whether it is even or odd.
+
+    - Declare a constant to store the value of Pi and use it to calculate the circumference and area of a circle given its radius.
+
+    - Write a program to calculate the area of a rectangle (length × breadth) using variables.
