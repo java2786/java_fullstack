@@ -1,0 +1,52 @@
+Currency Conversion
+Temprature Conversion
+Distance Conversion
+
+Greatest of Three Numbers
+Digit Sum of a 3 digit Number
+Reverse a 3 digit Number
+Find Armstrong Numbers = 159=1+125+569=?
+Compound Interest Calculation
+- Compound Interest = Principal * (1 + Rate/100)^Time - Principal.
+
+
+Vowel or Consonant
+Sum of Odd Numbers
+Palindrome Number - 111, 12321, 5995,
+Palindrome String - naman, nitin, racecar
+Reverse a String
+Power of a Number
+
+
+BMI Calculator
+    BMI = Weight (kg) / (Height (m) * Height (m)).
+        Categorize the BMI result as:
+        Underweight: BMI < 18.5
+        Normal: 18.5 <= BMI < 25
+        Overweight: 25 <= BMI < 30
+        Obese: BMI >= 30
+Example:
+    Input: Weight = 70, Height = 1.75
+    Output: BMI = 22.86 (Normal)
+
+
+Electricity Bill Calculation
+    For the first 100 units: 1.5 per unit
+    For the next 100 units: 2.5 per unit
+    Beyond 200 units: 3.5 per unit
+Example:
+    Input: Units = 250
+    Output: Bill = 625
+
+
+Loop
+    Print Numbers from 1 to N
+    Print Even Numbers from 1 to N
+    Sum of First N Natural Numbers
+    Factorial of a Number 
+    Print Multiplication Table
+    Count Digits in a Number
+    Reverse a Number
+    Check if a Number is Prime
+    Sum of Digits in a Number - 632541
+    Check Palindrome Number
