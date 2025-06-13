@@ -36,7 +36,7 @@ Electricity Bill Calculation
     Beyond 200 units: 3.5 per unit
 Example:
     Input: Units = 250
-    Output: Bill = 625
+    Output: Bill = 150 + 250 + 175 = 575
 
 
 Loop
